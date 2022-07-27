@@ -1,0 +1,18 @@
+.button {
+    text-decoration: none;
+    background-color: black;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 135px;
+    border-radius: 15px;
+    padding: 10px 15px;
+}
+.text {
+    color: white;
+    font-family:lato ;
+    font-size: 25px;
+}
+.icon {
+    width: 55px;
+}
